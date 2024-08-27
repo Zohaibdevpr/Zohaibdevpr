@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mdzohaibdeveloper1@gmail.com**
 
-- ⚡ Fun fact **I am funny guy.😂😉**
+- ⚡ Fun fact **I am so funny 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
