@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt = "coding" width="500"  src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
-</hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibdevpr&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibdevpr" /> </p>
 
 - 🌱 I’m currently learning **Js , React , Tailwind css**
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/muhammad zohaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad zohaib" height="30" width="40" /></a>
 <a href="https://instagram.com/zo.haib2860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zo.haib2860" height="30" width="40" /></a>
 </p>
 
