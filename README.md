@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zohaib.</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt = "coding" width="700" height="400" src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif">
+<img align="right" alt = "coding" width="700" height="200" src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wo9f1mou6g5469671h.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibdevpr&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibdevpr" /> </p>
 
