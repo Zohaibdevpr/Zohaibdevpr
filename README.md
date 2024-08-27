@@ -1,4 +1,4 @@
-  ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6p19-lCN_Z6xx6RJK-avH6TfvkorbWQMJg&s)
+  ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Muhammad Zohaib.</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
