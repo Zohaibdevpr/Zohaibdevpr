@@ -28,8 +28,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=Zohaibdevpr&theme=moltack&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<img src = "https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" align="left" width="60"> 
+<img src = "https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" align="right" width="60">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
