@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
+<img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
  👋 Hi , I'm Muhammad Zohaib <br><br>🤖 I'm currently  Learning Javascript, Tailwind css , React.js,Next.js...<br> 🔅 How To reach me :<br>            mdzohaibdeveloper1@gmail.com<br><br>  ☣  Fun Fact:  I'm Tenacious Person 💎<br>
 
 
