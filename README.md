@@ -7,7 +7,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40"> I'm currently  Learning Javascript, Tailwind css , React.js,Next.js...<br>
  <img src ="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> How To reach me :<br> 
        mdzohaibdeveloper1@gmail.com<br><br>  
- <img src = "https://private-user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU2MjM3NDEsIm5iZiI6MTcyNTYyMzQ0MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzktOWMzNTFjYjktYzlhMi00YjIwLTg0MjAtZTk2YjgzMzFhNTNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA2VDExNTA0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlZTMyMDg1N2IyMzZjYzU2NzY4ZDQzNzU0MzA5ZDBjYjY3YzZlODQ0YjQ5M2NhNmUxYzY3NTAyOGQyMDQ4ZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YZO3RfaUNfUYlCSfkQx8bikgWcWIHkynpQdSoAmZEnQ" width="40"> :-  Tenacious Person 💎<br> Striving for progress, Not perfection .
+ <img src = "https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"> :-  Tenacious Person 💎<br> :-  Striving for progress, Not perfection .
 
 
 ## 🌐 Socials:
