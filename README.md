@@ -15,7 +15,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zohaibdevpr&icon=1&color=2)](https://visitcount.itsvg.in)
-
+[![GitHub followers](https://img.shields.io/github/followers/JonSn0w.svg?style=social&label=Follow)](https://github.com/JonSnow/MyBadges)  
 
 <img src= "https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
