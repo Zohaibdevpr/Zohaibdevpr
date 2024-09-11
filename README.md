@@ -14,11 +14,12 @@
 <img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90">
  👋 Hi , I'm Muhammad Zohaib <br><br> 
  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40"> I'm currently  Learning Javascript, Tailwind css , React.js,Next.js...<br>
- <img src ="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40">
+
  
  ## 🤳 How to reach me : 
- <br> 
-       mdzohaibdeveloper1@gmail.com<br><br>  
+ <br>
+  <img src ="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40">
+   mdzohaibdeveloper1@gmail.com<br><br>  
  <img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> :-  Tenacious Person 💎<br> :-  Striving for progress, Not perfection .
 
 
