@@ -4,7 +4,7 @@
 # 💫 About Me:
 <br> <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handjet&weight=800&size=29&duration=4000&pause=500&color=39B9BB&width=435&lines=I'm+a+Web+Developer++!+.+.+.;I'm++a++CS+student++!+.+.+.+;I'm+expert+in+Js+!+.+.+.;I'm+a+Prompt+Engr.+!+.+.+.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handjet&weight=700&size=27&duration=4000&pause=500&color=D21C12&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Web+Developer++!+.+.+.;%F0%9F%A4%96+I'm++a++CS+student++!+.+.+.+;%F0%9F%92%8E+I'm+expert+in+Js+!+.+.+.;%E2%9C%A8+I'm+a+Prompt+Engr.+!+.+.+.)](https://git.io/typing-svg)
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalnia+Glaze&weight=700&size=28&duration=4000&pause=500&color=531BBB&width=435&lines=I'm+a+Web+Developer.;I'm++a++CS+student+.;I'm+expert+in+Js+.)](https://git.io/typing-svg) -->
