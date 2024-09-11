@@ -1,6 +1,9 @@
 ![logo](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 
 # 💫 About Me:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalnia+Glaze&weight=700&size=28&duration=4000&pause=500&color=531BBB&width=435&lines=I'm+a+Web+Developer.;I'm++a++CS+student+.;I'm+expert+in+Js+.)](https://git.io/typing-svg)
+
 <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 <img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
  👋 Hi , I'm Muhammad Zohaib <br><br> 
