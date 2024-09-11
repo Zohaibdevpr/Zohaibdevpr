@@ -42,6 +42,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaibdevpr&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+<p align="center">
+  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
