@@ -18,7 +18,7 @@
  <img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> :-  Tenacious Person 💎<br> :-  Striving for progress, Not perfection .
 
 
-## 🌐 Socials:
+## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Socials :-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zo.haib2860) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-zohaib-7b2223285/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@muhammad_zohaib936) 
 
 ---
