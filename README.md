@@ -1,10 +1,17 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Handjet&weight=700&size=32&duration=4000&pause=500&color=86D281&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Web+Developer++!+.+.+.;%F0%9F%A4%96+I'm++a++CS+student++!+.+.+.+;%F0%9F%92%8E+I'm+expert+in+Js+!+.+.+.;%E2%9C%A8+I'm+a+Prompt+Engr.+!+.+.+." alt="Typing SVG" /></a>
+ 
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handjet&weight=700&size=32&duration=4000&pause=500&color=86D281&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Web+Developer++!+.+.+.;%F0%9F%A4%96+I'm++a++CS+student++!+.+.+.+;%F0%9F%92%8E+I'm+expert+in+Js+!+.+.+.;%E2%9C%A8+I'm+a+Prompt+Engr.+!+.+.+.)](https://git.io/typing-svg) -->
+</div>
+<br> <br>
+
 ![logo](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 
 <img align="center" src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 # 💫 About Me:
 <br> <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handjet&weight=700&size=32&duration=4000&pause=500&color=86D281&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Web+Developer++!+.+.+.;%F0%9F%A4%96+I'm++a++CS+student++!+.+.+.+;%F0%9F%92%8E+I'm+expert+in+Js+!+.+.+.;%E2%9C%A8+I'm+a+Prompt+Engr.+!+.+.+.)](https://git.io/typing-svg)
+
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalnia+Glaze&weight=700&size=28&duration=4000&pause=500&color=531BBB&width=435&lines=I'm+a+Web+Developer.;I'm++a++CS+student+.;I'm+expert+in+Js+.)](https://git.io/typing-svg) -->
