@@ -2,8 +2,10 @@
 
 <img align="center" src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 # 💫 About Me:
+<br> <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Wavefont&weight=700&size=28&duration=4000&pause=500&color=39B9BB&width=435&lines=I'm+a+Web+Developer++++I+CS+student++I'm+a+I++Web+Developer.+I'm+a+Web+Developer..+and+want+to+learn+react.js.+I;I'm++a++CS+student++I'm++++I+a++CS+student++a+W++I+eb+Developer.+I'm+a+Web+Developer..+and+want+to+learn+react.js.I+;I'm+expert+in+Js+.+I'm+a+++++I+a++CS+student+W+I++++++++++++++++++++++++++++++++eb+D+I+eveloper.+I'm+a+Web+Developer.+and+want+to+learn+react.js.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handjet&weight=800&size=29&duration=4000&pause=500&color=39B9BB&width=435&lines=I'm+a+Web+Developer++!+.+.+.;I'm++a++CS+student++!+.+.+.+;I'm+expert+in+Js+!+.+.+.;I'm+a+Prompt+Engr.+!+.+.+.)](https://git.io/typing-svg)
+
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalnia+Glaze&weight=700&size=28&duration=4000&pause=500&color=531BBB&width=435&lines=I'm+a+Web+Developer.;I'm++a++CS+student+.;I'm+expert+in+Js+.)](https://git.io/typing-svg) -->
 
