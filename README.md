@@ -1,26 +1,23 @@
+<br> <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Handjet&weight=700&size=32&duration=4000&pause=500&color=86D281&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Web+Developer++!+.+.+.;%F0%9F%A4%96+I'm++a++CS+student++!+.+.+.+;%F0%9F%92%8E+I'm+expert+in+Js+!+.+.+.;%E2%9C%A8+I'm+a+Prompt+Engr.+!+.+.+." alt="Typing SVG" /></a>
- 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handjet&weight=700&size=32&duration=4000&pause=500&color=86D281&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Web+Developer++!+.+.+.;%F0%9F%A4%96+I'm++a++CS+student++!+.+.+.+;%F0%9F%92%8E+I'm+expert+in+Js+!+.+.+.;%E2%9C%A8+I'm+a+Prompt+Engr.+!+.+.+.)](https://git.io/typing-svg) -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Handjet&weight=700&size=35&duration=4000&pause=500&color=D268D0&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Web+Developer++!+.+.+.;%F0%9F%A4%96+I'm++a++CS+student++!+.+.+.+;%F0%9F%92%8E+I'm+expert+in+Js+!+.+.+.;%E2%9C%A8+I'm+a+Prompt+Engr.+!+.+.+." alt="Typing SVG" /></a>
 </div>
 <br> <br>
 
 ![logo](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 
 <img align="center" src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-# 💫 About Me:
-<br> <br>
 
+## ♑ About me:
+<br>
 
-
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalnia+Glaze&weight=700&size=28&duration=4000&pause=500&color=531BBB&width=435&lines=I'm+a+Web+Developer.;I'm++a++CS+student+.;I'm+expert+in+Js+.)](https://git.io/typing-svg) -->
-
-
-<img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90">
  👋 Hi , I'm Muhammad Zohaib <br><br> 
  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40"> I'm currently  Learning Javascript, Tailwind css , React.js,Next.js...<br>
- <img src ="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> How To reach me :<br> 
+ <img src ="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40">
+ 
+ ## 🤳 How to reach me : 
+ <br> 
        mdzohaibdeveloper1@gmail.com<br><br>  
  <img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> :-  Tenacious Person 💎<br> :-  Striving for progress, Not perfection .
 
