@@ -10,9 +10,9 @@
 
 ## ♑ About me:
 <br>
-
 <img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90">
- 👋 Hi , I'm Muhammad Zohaib <br><br> 
+<br>
+ <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! , Muhammad Zohaib here.</h1>
  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40"> I'm currently  Learning Javascript, Tailwind css , React.js,Next.js...<br>
 
  
