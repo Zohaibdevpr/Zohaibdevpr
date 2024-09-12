@@ -5,18 +5,21 @@
 <br> <br>
    
 ![logo](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
-
+    
 <img align="center" src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-## ♑ About me:
 <br>
 <img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+
+## ♑ About me:
+
 <br>
- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! , Muhammad Zohaib here.</h1>
+ <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <br>
+    Hi! , Muhammad Zohaib here.</p>
  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40"> I'm currently  Learning Javascript, Tailwind css , React.js,Next.js...<br>
 
  
- ## 🤳 How to reach me : 
+ ## 🤳 How to reach me :  
  <br>
   <img src ="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40">
    mdzohaibdeveloper1@gmail.com<br><br>  
