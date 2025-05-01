@@ -6,7 +6,7 @@
 
 ###
 <p align="center"> 
- 🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
+ 🆃🅴🅲🅷  🆂🆃🅰🅲🅺 <br>
 
  ####
 <table>
@@ -47,9 +47,6 @@
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
-      <br>Bootstrap
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
@@ -57,10 +54,6 @@
     </td>
   </tr>
  <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
-    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
@@ -117,6 +110,12 @@
 
 </p>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/zohaibdevpr/count.svg?"  />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ####
@@ -164,6 +163,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->   
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
+
  
 
