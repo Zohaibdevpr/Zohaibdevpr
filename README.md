@@ -73,14 +73,13 @@
 
 
       
-<br> <br>     
-<p align="center"> 
+<br>     
+ 
 
 
----
 [![](https://visitcount.itsvg.in/api?id=Zohaibdevpr&icon=5&color=7)](https://visitcount.itsvg.in)
 
-</p>
+
 <br>
 
 ##  About me:
