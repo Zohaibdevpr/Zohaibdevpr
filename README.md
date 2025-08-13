@@ -113,11 +113,7 @@
 
 </p>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zohaibdevpr/count.svg?"  />
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
