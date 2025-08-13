@@ -99,9 +99,7 @@
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Socials :-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zo.haib2860) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-zohaib-7b2223285/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@muhammad_zohaib936) 
 
----
 
-[![](https://visitcount.itsvg.in/api?id=Zohaibdevpr&icon=10&color=13)](https://visitcount.itsvg.in)
  
 
 <p align="center">
@@ -113,7 +111,7 @@
 
 </p>
 
-‎## Contribution Graph
+‎##  Contribution Graph:
 
 ‎<p align="center">
 ‎  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zohaibdevpr&theme=react-dark&area=true&hide_border=true" />
