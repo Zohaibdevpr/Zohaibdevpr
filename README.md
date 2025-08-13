@@ -78,13 +78,6 @@
 
 
 
-      
-<br>     
- 
-
-
-[![](https://visitcount.itsvg.in/api?id=Zohaibdevpr&icon=5&color=7)](https://visitcount.itsvg.in)
-
 
 <br>
 
@@ -93,7 +86,7 @@
 <br>
  <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <br>
     Hi! , Muhammad Zohaib here.</p>
- <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40"> I'm currently  Learning Javascript, Tailwind css , React<br>
+ <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40"> I' currently  Learning Javascript, Tailwind css , React<br>
    
  
  ##  How to reach me :  
