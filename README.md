@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zohaibdevpr&label=Profile%20Views&color=ff0000&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=Zohaibdevpr&label=Profile%20Views&color=ff0f0a&style=flat" alt="profile-views" />
 </p>
 
 
@@ -85,15 +85,15 @@
     
 <br>
  <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <br>
-    Hi! , Muhammad Zohaib here.</p>
- <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40"> I' currently  Learning Javascript, Tailwind css , React<br>
+    Hi! ,It's Muhammad Zohaib.</p>
+ <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40">I build impressive stuff using MERN tech stack and committed to learn new technologies. <br>
    
  
  ##  How to reach me :  
  <br>
   <img src ="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40">
-   mdzohaibdeveloper1@gmail.com<br><br>  
- <img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> :-  Tenacious Person <br> :-  Striving for progress, Not perfection .
+   mdzohaibdeveloper1@gmail.com <br><br>  
+ <img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> :-  A Tenacious Person <br> :-  Striving for progress, Not perfection .
 
 
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Socials :-
